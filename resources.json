@@ -1,0 +1,22 @@
+[
+  {
+    "id": "atomichabits",
+    "name": "Atomic Habits by James Clear",
+    "description": "Tiny Changes, Remarkable Results",
+    "imageUrl": "https://m.media-amazon.com/images/I/51b4CfdTSDL._SY445_SX342_FMwebp_.jpg",
+    "affiliateLink": "https://a.co/d/0gYfA9UA",
+    "category": "Books",
+    "isActive": true,
+    "sortOrder": 10
+  },
+  {
+    "id": "deepwork",
+    "name": "Deep Work by Cal Newport",
+    "description": "Rules for Focused Success in a Distracted World",
+    "imageUrl": "https://m.media-amazon.com/images/I/41aLX4X3l2L._SY445_SX342_FMwebp_.jpg",
+    "affiliateLink": "https://a.co/d/0g89HysU",
+    "category": "Books",
+    "isActive": true,
+    "sortOrder": 20
+  }
+]
