@@ -1,0 +1,99 @@
+TwoSelves Amazon Backend Plan
+=============================
+
+Goal
+----
+Build a small Vercel backend for Amazon affiliate resources used by
+TwoSelves_Android. The Android app should display curated or imported Amazon
+items, then open Amazon through normal Android link handling so Amazon completes
+checkout.
+
+Important Context
+-----------------
+- Keep Amazon credentials out of the Android app.
+- Use the backend as the secure bridge between Android and Amazon's approved
+  affiliate/product APIs.
+- Start with resource cards that do not show live price or availability unless
+  the backend is using Amazon-approved API data and the app includes the required
+  timestamp/disclaimer handling.
+- The Android project already has a Resources flow with a compatible model:
+  id, name, description, priceLabel, imageUrl, affiliateLink, category.
+- Android already opens resource links with ACTION_VIEW, which is the right
+  direction for sending users to the Amazon app or browser.
+
+Phase 1: Scaffold the Vercel Backend
+------------------------------------
+Create a small TypeScript/Node Vercel project in this folder:
+
+- package.json
+- vercel.json
+- api/resources.ts
+- src/ helpers for validation, affiliate link construction, and resource shaping
+
+Initial endpoint:
+
+- GET /api/resources
+
+This endpoint should return JSON compatible with the Android app's existing
+FocusResourceSeedDto shape.
+
+Phase 2: Compliance-Light MVP
+-----------------------------
+Return curated Amazon resource cards first:
+
+- title/name
+- description
+- image URL
+- category
+- Amazon affiliate link
+
+Avoid price and availability in the first version unless Creators API or another
+approved Amazon API is fully wired and policy requirements are handled.
+
+Phase 3: Environment Configuration
+----------------------------------
+Use Vercel environment variables:
+
+- AMAZON_PARTNER_TAG
+- Later: Amazon Creators API credentials or any approved Amazon API credentials
+
+Do not commit secrets to the repo. Do not put credentials in Android.
+
+Phase 4: Android Integration
+----------------------------
+After deployment, configure the Android app's remote resource URL:
+
+twoselves.resourcesUrl=https://your-vercel-app.vercel.app/api/resources
+
+This feeds the existing RemoteFocusResourceDataSource in TwoSelves_Android.
+
+Phase 5: Optional Import Flow
+-----------------------------
+After the curated Resources MVP works, add:
+
+- POST /api/items
+
+The Android app can send ASINs, and the backend can return enriched resource
+cards. This should use Amazon-approved APIs rather than scraping.
+
+Phase 6: Optional Buy-List Flow
+-------------------------------
+Later, evaluate a multi-item Amazon cart/add link flow if it is supported by the
+current Amazon Associates tools and policies available to the account.
+
+Recommended Product Sequence
+----------------------------
+Ship curated Amazon resource cards first. This fits the existing Resources tab,
+keeps the scope small, reduces affiliate compliance risk, and gives the app a
+working monetized flow before adding arbitrary ASIN import or cart behavior.
+
+Official Policy Notes To Recheck Before Launch
+----------------------------------------------
+- The Android app must be registered/approved in Amazon Associates if affiliate
+  links are used from the mobile app.
+- Mobile Special Links may need to be served by Creators API, PA API, or Amazon
+  linking tools approved by Amazon.
+- Price and availability display has additional freshness, timestamp, and
+  disclaimer requirements.
+- PA-API documentation states PA-API was deprecated on May 15, 2026 and directs
+  developers to migrate to Creators API.
