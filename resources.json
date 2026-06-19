@@ -64,4 +64,22 @@
     "category": "Books",
     "isActive": true
   }
+  {
+  "id": "betterofficetodolistnotepad",
+  "name": "Better Office Products To Do List Notepad (7 x 10, 52 Sheets)",
+  "description": "Daily Agenda Productivity Checklist Organizer with Blue Ombré Design",
+  "imageUrl": "https://m.media-amazon.com/images/P/B0CKLZHQ36.01._SCLZZZZZZZ_SX342_SY445_.jpg",
+  "affiliateLink": "https://www.amazon.com/dp/B0CKLZHQ36",
+  "category": "Office Products",
+  "isActive": true
+  }
+  {
+  "id": "itsyourship",
+  "name": "It's Your Ship: Management Techniques from the Best Damn Ship in the Navy by Michael Abrashoff",
+  "description": "Management Techniques from the Best Damn Ship in the Navy",
+  "imageUrl": "https://m.media-amazon.com/images/P/145552302X.01._SCLZZZZZZZ_SX342_SY445_.jpg",
+  "affiliateLink": "https://www.amazon.com/dp/145552302X",
+  "category": "Books",
+  "isActive": true
+  }
 ]
