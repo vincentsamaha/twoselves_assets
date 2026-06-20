@@ -6,8 +6,7 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51b4CfdTSDL._SY445_SX342_FMwebp_.jpg",
     "affiliateLink": "https://a.co/d/0gYfA9UA",
     "category": "Books",
-    "isActive": true,
-    "sortOrder": 10
+    "isActive": true
   },
   {
     "id": "deepwork",
@@ -16,8 +15,7 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41aLX4X3l2L._SY445_SX342_FMwebp_.jpg",
     "affiliateLink": "https://a.co/d/0g89HysU",
     "category": "Books",
-    "isActive": true,
-    "sortOrder": 20
+    "isActive": true
   }
   {
   "id": "speedofjoy",
