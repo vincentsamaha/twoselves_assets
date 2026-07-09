@@ -39,7 +39,7 @@
     },
     {
       "id": "richdadpoordad",
-      "name": "Rich Dad Poor Dad by Robert T. Kiyosaki",
+      "name": "Rich Dad Poor Dad for Teens by Robert T. Kiyosaki",
       "description": "What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
       "imageUrl": "https://m.media-amazon.com/images/P/1612680305.01._SCLZZZZZZZ_SX342_SY445_.jpg",
       "asin": "1612680305",
@@ -67,7 +67,7 @@
     {
       "id": "betterofficetodolistnotepad",
       "name": "Better Office Products To Do List Notepad (7 x 10, 52 Sheets)",
-      "description": "Daily Agenda Productivity Checklist Organizer with Blue Ombré Design",
+      "description": "Daily Agenda Productivity Checklist Organizer",
       "imageUrl": "https://m.media-amazon.com/images/I/61OEHsXbyBL._AC_SX466_.jpg",
       "asin": "B0CKLZHQ36",
       "category": "Office Products",
@@ -79,6 +79,33 @@
       "description": "Management Techniques from the Best Damn Ship in the Navy",
       "imageUrl": "https://m.media-amazon.com/images/P/145552302X.01._SCLZZZZZZZ_SX342_SY445_.jpg",
       "asin": "145552302X",
+      "category": "Books",
+      "isActive": true
+    },
+    {
+      "id": "richbabylon",
+      "name": "The Richest Man in Babylon by George S. Clason",
+      "description": "Timeless classic of financial advice, presented through a collection of compelling parables set in ancient Babylon",
+      "imageUrl": "https://m.media-amazon.com/images/I/71VZub0QnLL._SL1500_.jpg",
+      "asin": "1954839499",
+      "category": "Books",
+      "isActive": true
+    },
+    {
+      "id": "thinnerleaner",
+      "name": "Thinner Leaner Stronger by Michael Matthews",
+      "description": "The Simple Science of Building the Ultimate Female Body. A clear, science-based strength training and nutrition plan designed specifically for women's fitness goals.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71-066t6NzL._SL1500_.jpg",
+      "asin": "1938895312",
+      "category": "Books",
+      "isActive": true
+    },
+    {
+      "id": "biggerleaner",
+      "name": "Bigger Leaner Stronger by Michael Matthews",
+      "description": "The Simple Science of Building the Ultimate Male Body. A clear, science-based strength training and nutrition plan focused on gaining lean muscle and losing fat without extreme restrictions.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81WHIpDQiOL._SL1500_.jpg",
+      "asin": "1938895304",
       "category": "Books",
       "isActive": true
     }
