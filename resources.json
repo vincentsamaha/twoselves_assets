@@ -7,7 +7,7 @@
       "description": "Tiny Changes, Remarkable Results",
       "imageUrl": "https://m.media-amazon.com/images/I/81kg51XRc1L._SL1500_.jpg",
       "asin": "B07RFSSYBH",
-      "category": "Books",
+      "categories": ["Books","Productivity","Self-Improvement],
       "isActive": true
     },
     {
@@ -16,7 +16,7 @@
       "description": "Rules for Focused Success in a Distracted World",
       "imageUrl": "https://m.media-amazon.com/images/I/71wSsgrOIhL._SL1500_.jpg",
       "asin": "B0189PVAWY",
-      "category": "Books",
+      "categories": ["Books","Productivity"],
       "isActive": true
     },
     {
@@ -25,7 +25,7 @@
       "description": "The Simple Art of Taking Back Your Life",
       "imageUrl": "https://m.media-amazon.com/images/I/61v4QlaO9YL._SL1500_.jpg",
       "asin": "1635825644",
-      "category": "Books",
+      "categories": ["Books","Self-Improvement"],
       "isActive": true
     },
     {
@@ -34,7 +34,7 @@
       "description": "The Only Book You Need to Lead You to Success",
       "imageUrl": "https://m.media-amazon.com/images/I/71vK0WVQ4rL._SL1500_.jpg",
       "asin": "0671027034",
-      "category": "Books",
+      "categories": ["Books","Leadership","Communication"],
       "isActive": true
     },
     {
@@ -43,7 +43,7 @@
       "description": "What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
       "imageUrl": "https://m.media-amazon.com/images/I/81BE7eeKzAL._SL1500_.jpg",
       "asin": "1612681131",
-      "category": "Books",
+      "categories": ["Books","Money","Business"],
       "isActive": true
     },
     {
@@ -52,7 +52,7 @@
       "description": "Powerful Lessons in Personal Change",
       "imageUrl": "https://m.media-amazon.com/images/I/810oMMWrltL._SL1500_.jpg",
       "asin": "1982137274",
-      "category": "Books",
+      "categories": ["Books","Productivity"],
       "isActive": true
     },
     {
@@ -61,7 +61,7 @@
       "description": "Time-Tested Methods for Conquering Worry",
       "imageUrl": "https://m.media-amazon.com/images/I/71ysDu0XhIL._SL1500_.jpg",
       "asin": "0671035975",
-      "category": "Books",
+      "categories": ["Books","Mental Health"],
       "isActive": true
     },
     {
@@ -79,7 +79,7 @@
       "description": "Management Techniques from the Best Damn Ship in the Navy",
       "imageUrl": "https://m.media-amazon.com/images/I/81ktddxg58L._SL1500_.jpg",
       "asin": "145552302X",
-      "category": "Books",
+      "categories": ["Books","Leadership"],
       "isActive": true
     },
     {
@@ -88,7 +88,7 @@
       "description": "Timeless classic of financial advice, presented through a collection of compelling parables set in ancient Babylon",
       "imageUrl": "https://m.media-amazon.com/images/I/71VZub0QnLL._SL1500_.jpg",
       "asin": "1954839499",
-      "category": "Books",
+      "categories": ["Books","Money"],
       "isActive": true
     },
     {
@@ -97,7 +97,7 @@
       "description": "The Simple Science of Building the Ultimate Female Body. A clear, science-based strength training and nutrition plan designed specifically for women's fitness goals.",
       "imageUrl": "https://m.media-amazon.com/images/I/71-066t6NzL._SL1500_.jpg",
       "asin": "1938895312",
-      "category": "Books",
+      "categories": ["Books","Fitness"],
       "isActive": true
     },
     {
@@ -106,7 +106,16 @@
       "description": "The Simple Science of Building the Ultimate Male Body. A clear, science-based strength training and nutrition plan focused on gaining lean muscle and losing fat without extreme restrictions.",
       "imageUrl": "https://m.media-amazon.com/images/I/81WHIpDQiOL._SL1500_.jpg",
       "asin": "1938895304",
-      "category": "Books",
+      "categories": ["Books","Fitness"],
+      "isActive": true
+    },
+    {
+      "id": "mainstreetmillion",
+      "name": "Main Street Millionaire by Codie Sanchez",
+      "description": "How to Make Extraordinary Wealth Buying Ordinary Businesses",
+      "imageUrl": "https://m.media-amazon.com/images/I/71VmgeOMRPL._SL1500_.jpg",
+      "asin": "B0D1GXCMZZ",
+      "categories": ["Books","Business"],
       "isActive": true
     }
   ]
