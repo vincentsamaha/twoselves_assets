@@ -5,7 +5,7 @@
       "id": "atomichabits",
       "name": "Atomic Habits by James Clear",
       "description": "Tiny Changes, Remarkable Results",
-      "imageUrl": "https://m.media-amazon.com/images/I/51b4CfdTSDL._SY445_SX342_FMwebp_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/81kg51XRc1L._SL1500_.jpg",
       "asin": "B07RFSSYBH",
       "category": "Books",
       "isActive": true
@@ -14,7 +14,7 @@
       "id": "deepwork",
       "name": "Deep Work by Cal Newport",
       "description": "Rules for Focused Success in a Distracted World",
-      "imageUrl": "https://m.media-amazon.com/images/I/41aLX4X3l2L._SY445_SX342_FMwebp_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/71wSsgrOIhL._SL1500_.jpg",
       "asin": "B0189PVAWY",
       "category": "Books",
       "isActive": true
@@ -23,7 +23,7 @@
       "id": "speedofjoy",
       "name": "Slowing Down to the Speed of Joy by Matthew Kelly",
       "description": "The Simple Art of Taking Back Your Life",
-      "imageUrl": "https://m.media-amazon.com/images/P/1635825644.01._SCLZZZZZZZ_SX342_SY445_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/61v4QlaO9YL._SL1500_.jpg",
       "asin": "1635825644",
       "category": "Books",
       "isActive": true
@@ -32,17 +32,17 @@
       "id": "howtowinfriendsandinfluencepeople",
       "name": "How to Win Friends and Influence People by Dale Carnegie",
       "description": "The Only Book You Need to Lead You to Success",
-      "imageUrl": "https://m.media-amazon.com/images/P/0671027034.01._SCLZZZZZZZ_SX342_SY445_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/71vK0WVQ4rL._SL1500_.jpg",
       "asin": "0671027034",
       "category": "Books",
       "isActive": true
     },
     {
       "id": "richdadpoordad",
-      "name": "Rich Dad Poor Dad for Teens by Robert T. Kiyosaki",
+      "name": "Rich Dad Poor Dad by Robert T. Kiyosaki",
       "description": "What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
-      "imageUrl": "https://m.media-amazon.com/images/P/1612680305.01._SCLZZZZZZZ_SX342_SY445_.jpg",
-      "asin": "1612680305",
+      "imageUrl": "https://m.media-amazon.com/images/I/81BE7eeKzAL._SL1500_.jpg",
+      "asin": "1612681131",
       "category": "Books",
       "isActive": true
     },
@@ -50,7 +50,7 @@
       "id": "7habitsofhighlyeffectivepeople",
       "name": "The 7 Habits of Highly Effective People by Stephen R. Covey",
       "description": "Powerful Lessons in Personal Change",
-      "imageUrl": "https://m.media-amazon.com/images/P/1982137274.01._SCLZZZZZZZ_SX342_SY445_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/810oMMWrltL._SL1500_.jpg",
       "asin": "1982137274",
       "category": "Books",
       "isActive": true
@@ -59,7 +59,7 @@
       "id": "stopworryingandstartliving",
       "name": "How to Stop Worrying and Start Living by Dale Carnegie",
       "description": "Time-Tested Methods for Conquering Worry",
-      "imageUrl": "https://m.media-amazon.com/images/P/0671035975.01._SCLZZZZZZZ_SX342_SY445_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ysDu0XhIL._SL1500_.jpg",
       "asin": "0671035975",
       "category": "Books",
       "isActive": true
@@ -77,7 +77,7 @@
       "id": "itsyourship",
       "name": "It's Your Ship: Management Techniques from the Best Damn Ship in the Navy by Michael Abrashoff",
       "description": "Management Techniques from the Best Damn Ship in the Navy",
-      "imageUrl": "https://m.media-amazon.com/images/P/145552302X.01._SCLZZZZZZZ_SX342_SY445_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/81ktddxg58L._SL1500_.jpg",
       "asin": "145552302X",
       "category": "Books",
       "isActive": true
