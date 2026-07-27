@@ -117,6 +117,15 @@
       "asin": "B0D1GXCMZZ",
       "categories": ["Books","Business"],
       "isActive": true
+    },
+    {
+      "id": "surroundidiots",
+      "name": "Surrounded by Idiots by Thomas Erikson",
+      "description": "The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life)",
+      "imageUrl": "https://m.media-amazon.com/images/I/71pYssIiv8L._SL1500_.jpg",
+      "asin": "1250420458",
+      "categories": ["Books","Business","Communication"],
+      "isActive": true
     }
   ]
 }
