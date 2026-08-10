@@ -126,6 +126,51 @@
       "asin": "1250420458",
       "categories": ["Books","Business","Communication"],
       "isActive": true
+    },
+    {
+      "id": "goodgreat",
+      "name": "Good to Great by Jim Collins",
+      "description": "Why Some Companies Make the Leap...and Others Don't",
+      "imageUrl": "https://m.media-amazon.com/images/I/61L7cAlD19L._SL1500_.jpg",
+      "asin": "0066620996",
+      "categories": ["Books","Leadership","Business"],
+      "isActive": true
+    },
+    {
+      "id": "tippingpoint",
+      "name": "The Tipping Point: How Little Things Can Make a Big Difference by Malcolm Gladwell ",
+      "description": "Uncover the captivating science behind viral trends in business, marketing, and human behavior",
+      "imageUrl": "https://m.media-amazon.com/images/I/71vzpPj921L._SL1500_.jpg",
+      "asin": "0316346624",
+      "categories": ["Books","Marketing","Social Psychology"],
+      "isActive": true
+    },
+    {
+      "id": "lawsleadership",
+      "name": "The 21 Irrefutable Laws of Leadership by John C. Maxwell",
+      "description": "A foundational guide detailing timeless core principles for expanding your influence and leading effectively",
+      "imageUrl": "https://m.media-amazon.com/images/I/715+WtfNbFL._SL1500_.jpg",
+      "asin": "0785288376",
+      "categories": ["Books,"Leadership","Team Building"],
+      "isActive": true
+    },
+    {
+      "id": "thinkrich",
+      "name": "Think and Grow Rich by Napoleon Hill",
+      "description": "Break down the mindset habits you need to turn your goals into real success",
+      "imageUrl": "https://m.media-amazon.com/images/I/61IxJuRI39L._SL1000_.jpg",
+      "asin": "1585424331",
+      "categories": ["Books","Money","Practical Mindset"],
+      "isActive": true
+    },
+    {
+      "id": "notsuck",
+      "name": "How to Not Suck at Life: 89 Tips for Teens by Connor Boyack",
+      "description": "A practical handbook giving teens actionable advice on confidence, work ethic, and navigating young adulthood",
+      "imageUrl": "https://m.media-amazon.com/images/I/61-btoaGcdL._SL1282_.jpg",
+      "asin": "194352176X",
+      "categories": ["Books","Teen Life Skills","Practical Mindset"],
+      "isActive": true
     }
   ]
 }
