@@ -297,6 +297,240 @@
       "asin": "B0061Z84AG",
       "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
       "isActive": true
+    },
+    {
+      "id": "madoatsruckingplatecarrier",
+      "name": "MADOATS Rucking Plate Carrier",
+      "description": "A padded carrier for ruck plates with adjustable shoulder, chest, and waist straps for weighted walking and strength and endurance workouts.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81uyUAsI5bL._AC_SL1500_.jpg",
+      "asin": "B0H6J7BW2D",
+      "categories": ["Exercise Equipment","Fitness","Strength Training"],
+      "isActive": true
+    },
+    {
+      "id": "themountainisyou",
+      "name": "The Mountain Is You by Brianna Wiest",
+      "description": "Explore self-sabotaging patterns, emotional awareness, and practical ways to build resilience and move toward personal growth.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71AHFDEpkdL._SL1500_.jpg",
+      "asin": "1949759229",
+      "categories": ["Books","Self-Improvement","Mental Health"],
+      "isActive": true
+    },
+    {
+      "id": "fivedysfunctionsofateam",
+      "name": "The Five Dysfunctions of a Team by Patrick Lencioni",
+      "description": "A leadership fable and practical framework for building trust, handling conflict, and strengthening commitment, accountability, and team results.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Kz7ODzW4L._SL1500_.jpg",
+      "asin": "0787960756",
+      "categories": ["Books","Leadership","Team Building","Communication"],
+      "isActive": true
+    },
+    {
+      "id": "100mleads",
+      "name": "$100M Leads by Alex Hormozi",
+      "description": "Explore methods for attracting potential customers through content, advertising, outreach, referrals, and business partnerships.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61OtT8LaraL._SL1293_.jpg",
+      "asin": "1737475774",
+      "categories": ["Books","Business","Marketing"],
+      "isActive": true
+    },
+    {
+      "id": "100moffers",
+      "name": "$100M Offers by Alex Hormozi",
+      "description": "A business guide to shaping compelling offers through customer value, pricing, positioning, and the way products and services are delivered.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61IsrkYuJML._SL1293_.jpg",
+      "asin": "173747574X",
+      "categories": ["Books","Business","Marketing"],
+      "isActive": true
+    },
+    {
+      "id": "100mmoneymodels",
+      "name": "$100M Money Models by Alex Hormozi",
+      "description": "Explore how attraction offers, upsells, downsells, and recurring offers can work together to structure business revenue and customer relationships.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61L6k0RMG-L._SL1293_.jpg",
+      "asin": "1963349156",
+      "categories": ["Books","Business","Money"],
+      "isActive": true
+    },
+    {
+      "id": "buybackyourtime",
+      "name": "Buy Back Your Time by Dan Martell",
+      "description": "A guide for entrepreneurs to reclaim time through delegation, hiring, and better operating systems while making room for meaningful work and life.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71R7qk8TXsL._SL1500_.jpg",
+      "asin": "059342297X",
+      "categories": ["Books","Productivity","Business"],
+      "isActive": true
+    },
+    {
+      "id": "psychologyofmoney",
+      "name": "The Psychology of Money by Morgan Housel",
+      "description": "Short stories exploring how behavior, personal experience, and expectations shape decisions about saving, investing, wealth, and happiness.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71DlDX6GccL._SL1500_.jpg",
+      "asin": "0857197681",
+      "categories": ["Books","Money","Practical Mindset"],
+      "isActive": true
+    },
+    {
+      "id": "dontbelieveeverythingyouthink",
+      "name": "Don't Believe Everything You Think by Joseph Nguyen",
+      "description": "Reflect on overthinking, question unhelpful thought patterns, and explore a calmer relationship with your thoughts and everyday experiences.",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Tu7w-uEdL._SL1500_.jpg",
+      "asin": "B09WPP7R6S",
+      "categories": ["Books","Mental Health","Self-Improvement"],
+      "isActive": true
+    },
+    {
+      "id": "ultrafuegopowercage",
+      "name": "ULTRA FUEGO Power Cage",
+      "description": "A steel power cage with adjustable bar supports and attachment options for varied strength exercises in a home or garage gym.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61bNpi+tsuL._AC_SL1500_.jpg",
+      "asin": "B0BFQVVFB7",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "capolympicbumperplates",
+      "name": "CAP Olympic Bumper Plates",
+      "description": "Rubber bumper plates with steel hubs and 2-inch center holes for Olympic barbells, supporting progressive strength training at home.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81GCHdq+MJL._AC_SL1500_.jpg",
+      "asin": "B0DHYNYBJZ",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "capolympiccastironplates",
+      "name": "CAP Olympic Cast Iron Grip Weight Plates",
+      "description": "Cast iron weight plates with grip openings, raised weight markings, and 2-inch Olympic barbell compatibility for progressive strength workouts.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81D9Edr8IkL._AC_SL1500_.jpg",
+      "asin": "B0FLMR2KFQ",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "bodytorcsuspensiontrainer",
+      "name": "Bodytorc Suspension Trainer",
+      "description": "Portable suspension straps with handles and foot cradles for bodyweight strength exercises at home or while traveling.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71+5lgLHiXL._AC_SL1500_.jpg",
+      "asin": "B08CT15CJB",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "moreorless",
+      "name": "More or Less Card Game",
+      "description": "A trivia card game where players compare surprising facts and answer more or less, making it easy to start a conversation and play together.",
+      "imageUrl": "https://m.media-amazon.com/images/I/714AZRIKMGL._AC_SL1500_.jpg",
+      "asin": "B0H1P2V4W7",
+      "categories": ["Card Games","Family","Social Activities"],
+      "isActive": true
+    },
+    {
+      "id": "battleshipwithplanes",
+      "name": "Battleship with Planes",
+      "description": "A two-player strategy game of hidden fleets, ships, and aircraft, with portable battle cases for face-to-face play at home or on the go.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81yc8EwVeLL._AC_SL1500_.jpg",
+      "asin": "B06Y1N3PTX",
+      "categories": ["Board Games","Family","Social Activities"],
+      "isActive": true
+    },
+    {
+      "id": "clue",
+      "name": "Clue Board Game",
+      "description": "Collect clues, question suspects, and use deduction to solve a mansion murder mystery before the other players.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71oSGWDuUgL._AC_SL1500_.jpg",
+      "asin": "B0B5FLTTT5",
+      "categories": ["Board Games","Family","Social Activities"],
+      "isActive": true
+    },
+    {
+      "id": "pictionary",
+      "name": "Pictionary Board Game",
+      "description": "A team drawing and guessing game where quick sketches and lively communication bring family and friends together, with no artistic skill required.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81MRTN3M7tL._AC_SL1500_.jpg",
+      "asin": "B07STLTFHG",
+      "categories": ["Board Games","Family","Social Activities","Creativity","Communication"],
+      "isActive": true
+    },
+    {
+      "id": "sorry",
+      "name": "Sorry! Board Game",
+      "description": "A classic race to move your pawns home, using cards, slides, and tactical moves to send opponents back to the start.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81CA3GV9sXL._AC_SL1500_.jpg",
+      "asin": "B076HK9H7Z",
+      "categories": ["Board Games","Family","Social Activities"],
+      "isActive": true
+    },
+    {
+      "id": "spyalley",
+      "name": "Spy Alley",
+      "description": "A strategy and bluffing game where players conceal their own spy identity while gathering clues to uncover their opponents.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71yzpRB7YPL._AC_SL1450_.jpg",
+      "asin": "B0003MA0PK",
+      "categories": ["Board Games","Family","Social Activities"],
+      "isActive": true
+    },
+    {
+      "id": "pandemic",
+      "name": "Pandemic Board Game",
+      "description": "A cooperative strategy game where players combine specialist roles, share information, and coordinate actions to contain outbreaks and discover cures.",
+      "imageUrl": "https://m.media-amazon.com/images/I/811YPz8YufL._AC_SL1500_.jpg",
+      "asin": "B00A2HD40E",
+      "categories": ["Board Games","Social Activities","Team Building","Communication"],
+      "isActive": true
+    },
+    {
+      "id": "forbiddenisland",
+      "name": "Forbidden Island",
+      "description": "A cooperative adventure where players work together to recover treasures and escape a sinking island through careful planning and shared decisions.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71pGcv2wdkL._AC_SL1498_.jpg",
+      "asin": "B003D7F4YY",
+      "categories": ["Board Games","Family","Social Activities","Team Building"],
+      "isActive": true
+    },
+    {
+      "id": "monopolyjuniorsupermario",
+      "name": "Monopoly Junior: Super Mario Edition",
+      "description": "A family board game that introduces younger players to buying properties and collecting coins while exploring familiar places in the Mushroom Kingdom.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81-fKimKf-L._AC_SL1500_.jpg",
+      "asin": "B09D44P9HK",
+      "categories": ["Board Games","Family","Social Activities"],
+      "isActive": true
+    },
+    {
+      "id": "catan",
+      "name": "CATAN Board Game",
+      "description": "Trade resources, build roads and settlements, and adapt to a changing island layout in a strategy game centered on negotiation and planning.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71AbDpYEkgL._AC_SL1500_.jpg",
+      "asin": "B0DYK1ZH2D",
+      "categories": ["Board Games","Family","Social Activities","Communication"],
+      "isActive": true
+    },
+    {
+      "id": "gameoflife",
+      "name": "The Game of Life",
+      "description": "A family board game of careers, vacations, and life choices, with a spinner guiding players through unexpected turns and shared adventures.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81s1uoBIf0L._AC_SL1500_.jpg",
+      "asin": "B06XY48MK1",
+      "categories": ["Board Games","Family","Social Activities"],
+      "isActive": true
+    },
+    {
+      "id": "geniussquare",
+      "name": "The Genius Square",
+      "description": "Roll the dice, place blockers, and fit colorful shapes into a grid in a spatial puzzle game that can be played solo or as a head-to-head race.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61bOnWLpp4L._AC_SL1000_.jpg",
+      "asin": "B07KCDBJTX",
+      "categories": ["Board Games","Family","Social Activities"],
+      "isActive": true
+    },
+    {
+      "id": "moneyskillsforteens",
+      "name": "Money Skills for Teens by Ferne Bowe",
+      "description": "An introduction to budgeting, saving, investing, and building credit, helping teens understand everyday money decisions and prepare for financial independence.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71EUXT3pelL._SL1360_.jpg",
+      "asin": "1915833094",
+      "categories": ["Books","Money","Teen Life Skills"],
+      "isActive": true
     }
   ]
 }
