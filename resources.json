@@ -171,6 +171,132 @@
       "asin": "194352176X",
       "categories": ["Books","Teen Life Skills","Practical Mindset"],
       "isActive": true
+    },
+    {
+      "id": "crucialconversations",
+      "name": "Crucial Conversations (3rd Edition) by Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler and Emily Gregory",
+      "description": "Learn practical ways to discuss difficult subjects, handle strong emotions, and communicate more effectively at work and at home.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71oJG4ynmaL._SL1500_.jpg",
+      "asin": "1260474186",
+      "categories": ["Books","Communication","Relationships","Self-Improvement"],
+      "isActive": true
+    },
+    {
+      "id": "basiceconomics",
+      "name": "Basic Economics by Thomas Sowell (Kindle Edition)",
+      "description": "Explore how prices, incentives, businesses, and economic policies work through accessible explanations and examples from history and everyday life.",
+      "imageUrl": "https://m.media-amazon.com/images/I/617LBWfT11L._AC_SL3840_.jpg",
+      "asin": "B00L4FSSTA",
+      "categories": ["Books","Economics","Money"],
+      "isActive": true
+    },
+    {
+      "id": "artofpublicspeaking",
+      "name": "The Art of Public Speaking by Dale Carnegie",
+      "description": "Build confidence in speaking to others with classic guidance on preparing a talk, delivering your message, and keeping an audience engaged.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71gQNXgUlgL._SL1500_.jpg",
+      "asin": "1945186488",
+      "categories": ["Books","Communication","Public Speaking","Self-Improvement"],
+      "isActive": true
+    },
+    {
+      "id": "subtleart",
+      "name": "The Subtle Art of Not Giving a F*ck by Mark Manson",
+      "description": "Reflect on your values, accept life's limits, and become more deliberate about which problems and commitments deserve your time and attention.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71QKQ9mwV7L._SL1500_.jpg",
+      "asin": "0062457713",
+      "categories": ["Books","Self-Improvement","Practical Mindset"],
+      "isActive": true
+    },
+    {
+      "id": "boundaries",
+      "name": "Boundaries by Henry Cloud and John Townsend (Updated and Expanded)",
+      "description": "A Christian perspective on setting healthy limits in relationships, managing digital demands, and deciding when to say yes or no.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71%2BiEHXHGML._AC_SL3840_.jpg",
+      "asin": "0310351804",
+      "categories": ["Books","Relationships","Mental Health","Christian Living"],
+      "isActive": true
+    },
+    {
+      "id": "tajaspiraljournalgreen",
+      "name": "Taja Lined Spiral Journal Notebook - Green",
+      "description": "A hardcover, college-ruled notebook with 140 pages for capturing ideas, taking notes, or reflecting on your day away from a screen.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61nJOjSLjbL._AC_UY512_.jpg",
+      "asin": "B0CT4HX4T9",
+      "categories": ["Organizers/Journals","Journaling","Writing","Productivity"],
+      "isActive": true
+    },
+    {
+      "id": "powerblockeliteexp",
+      "name": "PowerBlock Elite EXP Adjustable Dumbbells - Stage 1, 5-50 lb Pair",
+      "description": "Adjustable dumbbells for strength training at home. Each adjusts from 5 to 50 pounds, offering several weight choices in a compact space.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81yF5CpdlLL._AC_UL960_QL65_.jpg",
+      "asin": "B00A21NRNO",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "ruthlesseliminationofhurry",
+      "name": "The Ruthless Elimination of Hurry by John Mark Comer",
+      "description": "A Christian guide to slowing down, resisting constant busyness, and making room for a more intentional and spiritually grounded life.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61K+00UMPaL._SL1500_.jpg",
+      "asin": "0525653090",
+      "categories": ["Books","Christian Living","Intentional Living","Self-Improvement"],
+      "isActive": true
+    },
+    {
+      "id": "cappowerrack",
+      "name": "CAP Barbell Power Rack Exercise Stand with Pull-Up Bar",
+      "description": "A steel exercise stand with a pull-up bar, adjustable barbell catches, and storage for a bar and weight plates for home strength training.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61kF-geSnNL._AC_SL1500_.jpg",
+      "asin": "B00HYQP72O",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "capadjustabell55lbpair",
+      "name": "CAP ADJUSTABELL Adjustable Dumbbells",
+      "description": "Adjustable dumbbells with quick-select weight adjustment and storage trays for varied strength workouts in a compact home gym.",
+      "imageUrl": "https://m.media-amazon.com/images/I/7187fTdFQML._AC_SL1500_.jpg",
+      "asin": "B0DSM1SRCH",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "flybirdwb5bench",
+      "name": "FLYBIRD WB5 Adjustable Foldable Weight Bench",
+      "description": "A foldable weight bench with flat, incline, and decline positions for varied strength exercises and compact storage between home workouts.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71q0WLjRrAL._AC_SL1500_.jpg",
+      "asin": "B07DNYSJ8W",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "capolympicbarbell",
+      "name": "CAP Olympic Barbell",
+      "description": "An Olympic barbell with a knurled grip and rotating sleeves for squats, presses, rows, and deadlifts. Fits weight plates with 2-inch center holes.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61p-jII4z8L._AC_SL1500_.jpg",
+      "asin": "B0BFZFJDSH",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "rosapoarresistancebands",
+      "name": "ROSAPOAR Pull-Up Assist Resistance Bands",
+      "description": "Natural latex loop bands with different resistance levels for assisted pull-ups, strength exercises, and stretching. Includes a carrying bag and workout guide.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ALgXGX21L._AC_SL1500_.jpg",
+      "asin": "B0CGX2256B",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
+    },
+    {
+      "id": "yes4allkettlebell10lb",
+      "name": "Yes4All Cast Iron Kettlebell",
+      "description": "A solid cast iron kettlebell with a wide handle and flat base for swings, squats, and other strength exercises at home.",
+      "imageUrl": "https://m.media-amazon.com/images/I/611Mj6UWYlL._AC_SL1500_.jpg",
+      "asin": "B0061Z84AG",
+      "categories": ["Exercise Equipment","Fitness","Strength Training","Home Gym"],
+      "isActive": true
     }
   ]
 }
